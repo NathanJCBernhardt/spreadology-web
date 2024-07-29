@@ -1,1 +1,1 @@
-web: gunicorn spreadologyWeb.wsgi --log-file -
+web: gunicorn spreadologyWeb.wsgi
